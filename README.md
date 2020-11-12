@@ -15,12 +15,24 @@ https://en.wikipedia.org/wiki/Base64
 Example base64 conversion(word 'Man' into base64):\
 1. ASCII to Octets/bytes values to binary values:
 
-|---|----|----------|----|----------|
-| M | -> | 77(0x4d) | -> | 01001101 |
-| a | -> | 97(0x61) | -> | 01100001 |
-| n | -> | 110(0x6e)| -> | 01101110 |
+| Char |    | Octets   |    | Bits     |
+|------|----|----------|----|----------|
+|  M   | -> | 77(0x4d) | -> | 01001101 |
+|  a   | -> | 97(0x61) | -> | 01100001 |
+|  n   | -> | 110(0x6e)| -> | 01101110 |
 
-2. 
+Bits joined in one string:\
+010011010110000101101110
+
+2. Binari string to 6 bits to characters
+| Bits   |    | Char |
+|--------|----|------|
+| 010011 | -> | T    |
+| 010110 | -> | W    |
+| 000101 | -> | F    |
+| 101110 | -> | u    |
+
+So **Man** in base64 format is **TWFu**
 
 Base64 index table with binary code
 
