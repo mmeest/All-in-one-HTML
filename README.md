@@ -56,6 +56,9 @@ Base64 index table with binary code
 | 14 	  | 001110 | O    |	30    |	011110 | e    |	46    |	101110 | u    |	62    |	111110 | +    |
 | 15 	  | 001111 | P    |	31    |	011111 | f    |	47    |	101111 | v    |	63    |	111111 | /    |
 
+## Example to convert image into binary
+https://riptutorial.com/javascript/example/14207/getting-binary-representation-of-an-image-file
+
 # HAPPY CODING !!!
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=footer)
