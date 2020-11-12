@@ -3,7 +3,7 @@
 # To store image in HTML
 To store JavaScript, CSS and images into compact HTML
 
-<img src="Screenshot.jpg" widht="300px">
+<img src="Screenshot.jpg" width="300px">
 
 ## Base64 format
 https://en.wikipedia.org/wiki/Base64
