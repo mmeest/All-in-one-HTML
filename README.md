@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/Base64
 Example base64 conversion(word 'Man' into base64):\
 1. ASCII to Octets/bytes values to binary values:
 
+|---|----|----------|----|----------|
 | M | -> | 77(0x4d) | -> | 01001101 |
 | a | -> | 97(0x61) | -> | 01100001 |
 | n | -> | 110(0x6e)| -> | 01101110 |
