@@ -12,6 +12,15 @@ To store JavaScript, CSS and images into compact HTML
 ## Base64 format
 https://en.wikipedia.org/wiki/Base64
 
+Example base64 conversion(word 'Man' into base64):\
+1. ASCII to Octets/bytes values to binary values:
+
+| M | -> | 77(0x4d) | -> | 01001101 |
+| a | -> | 97(0x61) | -> | 01100001 |
+| n | -> | 110(0x6e)| -> | 01101110 |
+
+2. 
+
 Base64 index table with binary code
 
 | Index | Binary | Char | Index | Binary | Char | Index | Binary | Char | Index | Binary | Char |
