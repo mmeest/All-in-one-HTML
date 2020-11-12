@@ -6,7 +6,7 @@ To store JavaScript, CSS and images into compact HTML
 <img src="Screenshot.jpg" width="300px">
 
 ```
-<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAA...>
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAA...
 ```
 
 ## Base64 format
