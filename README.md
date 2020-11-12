@@ -24,7 +24,8 @@ Example base64 conversion(word 'Man' into base64):\
 Bits joined in one string:\
 010011010110000101101110
 
-2. Binari string to 6 bits to characters
+2. Binari string to 6 bits to characters:
+
 | Bits   |    | Char |
 |--------|----|------|
 | 010011 | -> | T    |
